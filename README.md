@@ -25,7 +25,7 @@ Using machine learning and the latest deep learning technology (e.g., TSC-CNN, M
 |XGBoost|0.938095|
 
 ## Contact
-This is released as an open source in the hope that it will be helpful to many research institutes. We look forward to contacting us from various places who wish to cooperate with us.
+This is released as an open source in the hope that it will be helpful to many research institutes. We look forward to contacting us from various places who wish to cooperate with us. And also contact us if you need our VEEM data.
 
 kwseo@seoultech.ac.kr
 
